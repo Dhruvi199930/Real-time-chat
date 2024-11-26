@@ -23,7 +23,7 @@ To run the Real-Time Chat Application locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd real-time-chat-app
+   cd real-time-chat
    ``` 
 3. Install dependencies using npm:
    ```bash
