@@ -19,25 +19,21 @@ The Real-Time Chat Application is a web-based messaging platform that allows use
 To run the Real-Time Chat Application locally, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/real-time-chat-app.git
+   git clone https://github.com/yourusername/real-time-chat.git
    ```
 2. Navigate to the project directory:
    ```bash
    cd real-time-chat-app
-   ```
-3. Navigate to the server directory:
-   ```bash
-   cd server
-   ```   
-4. Install dependencies using npm:
+   ``` 
+3. Install dependencies using npm:
    ```bash
    npm install
    ```
-5. Start the server:
+4. Start the server:
    ```bash
    npm start
    ```
-6. Access the application in your web browser at `http://localhost:3500`.
+5. Access the application in your web browser at `http://localhost:3500`.
 
 ## Future Enhancements
 - **File Sharing**: Allow users to share files such as images, documents, and videos within chat rooms.
